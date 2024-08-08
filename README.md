@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nivedhrj
 - 👀 I’m interested in typing programs and executing them.
 - 🌱 I’m currently learning Java Programming through IntelliJ and GitHub.
-- 💞️ I’m looking to collaborate on a project in Java named "MARK COUNTER", which I will be uploading it to my GitHub Profile soon.
+- 💞️ I’m looking to collaborate on a project in Java named "MARK COUNTER".
 - 📫 You could reach me via: https://github.com/nivedhrj
 - 😄 Pronouns: I would like to learn more about Java.
 - ⚡ Fun fact: I am learning Java Strings right now.
